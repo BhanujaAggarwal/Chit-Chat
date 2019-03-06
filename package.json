@@ -1,0 +1,16 @@
+{
+  "name": "chatroom",
+  "version": "1.0.0",
+  "description": "Simple chat room ",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+},
+  "author": "Bhanuja Aggarwal",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "socket.io": "^2.2.0"
+  }
+}
+
